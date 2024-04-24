@@ -1,8 +1,8 @@
 
 def function():
-    a = int(input())
-    b = int(input())
-    result = print(a + b)
+    x = int(input())
+    y = int(input())
+    result = print(x + y)
     return result
 
 function()
