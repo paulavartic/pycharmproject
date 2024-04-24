@@ -7,3 +7,8 @@ def function():
 
 function()
 
+def function_2():
+    a = int(input())
+    b = int(input())
+    result = print(a - b)
+    return result
